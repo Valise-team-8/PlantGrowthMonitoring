@@ -1,5 +1,3 @@
- #Note : The dataset folder link is given here since it is too large to be uploaded to github directly . It is divided into day 1 , day 2, day 3. (https://drive.google.com/drive/u/0/folders/1OkgRHBYRSm_R4jTC8WEj-eaWLdkgB36R?lfhs=2)
-
 # 🌱 Plant Growth Monitoring System
 
 A comprehensive automated plant growth analysis system using Computer Vision and web-based monitoring dashboard.
@@ -14,6 +12,20 @@ This system monitors plant growth automatically by capturing and analyzing image
 - **Growth Trend Visualization**: Interactive charts and static plots
 - **Web Dashboard**: Real-time analytics with plant image gallery
 - **Health Categorization**: Automatic classification of plant health status
+
+## 📸 Screenshots
+
+### Dashboard Overview
+![Screenshot 1](screenshots/Screenshot%20(1).png)
+
+### Growth Analytics
+![Screenshot 2](screenshots/Screenshot%20(2).png)
+
+### Plant Image Gallery
+![Screenshot 3](screenshots/Screenshot%20(3).png)
+
+### Detailed Analysis
+![Screenshot 4](screenshots/Screenshot%20(4).png)
 
 ## 🛠️ Tech Stack
 
@@ -192,6 +204,4 @@ graph TD
 
 ## 📄 License
 
-
 This project is licensed under the MIT License - see the LICENSE file for details.
-
