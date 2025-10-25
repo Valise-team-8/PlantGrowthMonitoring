@@ -1,4 +1,4 @@
- #Note : The dataset folder link is given here since it is too large to be uploaded to github directly . It is divided into day 1 , day 2, day 3. https://drive.google.com/drive/u/0/folders/1OkgRHBYRSm_R4jTC8WEj-  eaWLdkgB36R?lfhs=2
+ #Note : The dataset folder link is given here since it is too large to be uploaded to github directly . It is divided into day 1 , day 2, day 3. (https://drive.google.com/drive/u/0/folders/1OkgRHBYRSm_R4jTC8WEj-eaWLdkgB36R?lfhs=2)
 
 # 🌱 Plant Growth Monitoring System
 
@@ -194,3 +194,4 @@ graph TD
 
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
