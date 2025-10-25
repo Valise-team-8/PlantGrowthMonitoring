@@ -1,0 +1,8 @@
+opencv-python
+numpy
+matplotlib
+pandas
+scikit-image
+flask
+huggingface-hub
+tqdm
